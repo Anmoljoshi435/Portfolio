@@ -1,7 +1,7 @@
 import { Activity, ArrowUpRight, Cpu, FileText } from 'lucide-react'
 
-const fullStackResume = '/resumes/full-stack-developer-resume.pdf'
-const softwareEngineerResume = '/resumes/software-engineer-resume.pdf'
+const fullStackResume = '/resumes/full-stack-developer-resume.pdf?v=2';
+const softwareEngineerResume = '/resumes/software-engineer-resume.pdf?v=2';
 
 export function Education() {
   return (
