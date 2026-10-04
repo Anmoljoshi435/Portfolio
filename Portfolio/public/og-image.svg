@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="glow" cx="76%" cy="46%" r="62%">
+      <stop offset="0" stop-color="#12415a" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#070a0d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#79ddf5" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#79ddf5" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#070a0d"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#line)" transform="translate(900 310)">
+    <ellipse rx="215" ry="93" transform="rotate(-28)"/>
+    <ellipse rx="176" ry="176" transform="rotate(38)"/>
+    <ellipse rx="142" ry="230" transform="rotate(68)"/>
+    <path d="M-250 0H250M0-250V250" stroke-opacity=".25"/>
+  </g>
+  <circle cx="900" cy="310" r="61" fill="#102c39" stroke="#79ddf5" stroke-width="2"/>
+  <circle cx="900" cy="310" r="50" fill="none" stroke="#79ddf5" stroke-opacity=".35"/>
+  <circle cx="1078" cy="261" r="5" fill="#a6edff"/>
+  <text x="70" y="115" fill="#79ddf5" font-family="Arial, sans-serif" font-size="16" letter-spacing="5">FULL-STACK DEVELOPER · AI ENGINEER</text>
+  <text x="66" y="265" fill="#eef3f5" font-family="Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-5">ANMOL JOSHI</text>
+  <text x="70" y="340" fill="#d3e0e5" font-family="Arial, sans-serif" font-size="33">BUILDING INTELLIGENT</text>
+  <text x="70" y="386" fill="#d3e0e5" font-family="Arial, sans-serif" font-size="33">DIGITAL SYSTEMS.</text>
+  <path d="M70 475H1130" stroke="#d3e0e5" stroke-opacity=".16"/>
+  <text x="70" y="526" fill="#82939c" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">WEB APPLICATIONS / BACKEND SYSTEMS / AI</text>
+</svg>
