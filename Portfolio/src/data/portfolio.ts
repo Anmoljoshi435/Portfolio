@@ -221,6 +221,6 @@ export const credentials: Credential[] = [
   },
 ]
 
-export const email = 'anmoljoshi.23cse@cambridge.edu.in'
+export const email = 'anmoljoshi442@gmail.com'
 export const linkedIn = 'https://www.linkedin.com/in/anmol-joshi-648a6029a/'
 export const github = 'https://github.com/Anmoljoshi435'
